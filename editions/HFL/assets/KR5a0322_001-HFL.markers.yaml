@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR5a0322_HFL_001-001a03}
   - {type: indent, offset: 7, content: 　, id: KR5a0322_HFL_001-bkkind2}
   - {type: punctuation, offset: 7, content: (, id: KR5a0322_HFL_001-bkkpn1}
+  - {type: voice, offset: 7, length: 31, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR5a0322_HFL_001-bkkpn2}
   - {type: punctuation, offset: 38, content: ), id: KR5a0322_HFL_001-bkkpn3}
   - {type: 'kr:newline', offset: 38, content: '
@@ -26,6 +27,7 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KR5a0322_HFL_001-001a04}
   - {type: indent, offset: 38, content: 　　　, id: KR5a0322_HFL_001-bkkind3}
   - {type: punctuation, offset: 41, content: (, id: KR5a0322_HFL_001-bkkpn4}
+  - {type: voice, offset: 41, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 43, content: ), id: KR5a0322_HFL_001-bkkpn5}
   - {type: 'kr:newline', offset: 43, content: '
 
@@ -302,6 +304,7 @@ markers:
   - {type: line-break, offset: 873, content: '', id: KR5a0322_HFL_001-004a06}
   - {type: indent, offset: 873, content: 　　　, id: KR5a0322_HFL_001-bkkind5}
   - {type: punctuation, offset: 876, content: (, id: KR5a0322_HFL_001-bkkpn6}
+  - {type: voice, offset: 876, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 879, content: ), id: KR5a0322_HFL_001-bkkpn7}
   - {type: 'kr:newline', offset: 879, content: '
 
@@ -397,6 +400,7 @@ markers:
   - {type: line-break, offset: 1179, content: '', id: KR5a0322_HFL_001-005a07}
   - {type: indent, offset: 1179, content: 　　　, id: KR5a0322_HFL_001-bkkind6}
   - {type: punctuation, offset: 1182, content: (, id: KR5a0322_HFL_001-bkkpn8}
+  - {type: voice, offset: 1182, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1185, content: ), id: KR5a0322_HFL_001-bkkpn9}
   - {type: 'kr:newline', offset: 1185, content: '
 
@@ -711,4 +715,4 @@ markers:
 
       ', id: KR5a0322_HFL_001-bkkkrnewl175}
   back: []
-hash: sha256:482485e998b48ba03ae50f869cb492787231eef3a58beddaf564aac6f48345fe
+hash: sha256:0ff3393f82e014869bcffb1345055833f118d16d4289d602c53902fb460176c6
